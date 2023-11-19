@@ -1,0 +1,20 @@
+.body1 { background-color: rgb(247, 255, 178);}
+
+#apptitu { padding-left: 20px;
+    font-size: 50px;
+color: brown;}
+
+#textopresen { padding: 20px;
+    font-size: 20px;
+}
+
+.nuevo-div { width: 40%;
+    background-color: rgb(231, 227, 147);
+}
+
+.titulo { font-size: 40px;
+color: blueviolet;}
+
+.titulo2 { padding: 20px;
+    font-size: 20px;
+    color: rgb(226, 43, 43); }
